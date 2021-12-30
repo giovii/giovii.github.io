@@ -1,38 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://giovii.github.io/posts/examplepost/</loc>
-    <lastmod>2021-12-30T18:27:07+01:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>http://www.example.com/en/sitemap.xml</loc>
+    
+      <lastmod>2021-12-30T18:27:07+01:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://giovii.github.io/</loc>
-    <lastmod>2021-12-30T18:27:07+01:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>http://www.example.com/pt-br/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://giovii.github.io/posts/</loc>
-    <lastmod>2021-12-30T18:27:07+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://giovii.github.io/tags/</loc>
-    <lastmod>2021-12-30T18:27:07+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://giovii.github.io/tags/untagged/</loc>
-    <lastmod>2021-12-30T18:27:07+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://giovii.github.io/blog/</loc>
-  </url>
-  
-  <url>
-    <loc>https://giovii.github.io/series/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>
