@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>untagged on Penetration Tester</title>
+    <title>untagged on Sharing is caring</title>
     <link>http://www.example.com/tags/untagged/</link>
-    <description>Recent content in untagged on Penetration Tester</description>
+    <description>Recent content in untagged on Sharing is caring</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 30 Dec 2021 18:27:07 +0100</lastBuildDate><atom:link href="http://www.example.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
@@ -18,19 +18,10 @@
     
     <item>
       <title>Who am I</title>
-      <link>http://www.example.com/posts/whoami/</link>
+      <link>http://www.example.com/whoami/</link>
       <pubDate>Thu, 30 Dec 2021 18:27:07 +0100</pubDate>
       
-      <guid>http://www.example.com/posts/whoami/</guid>
-      <description>my frist post</description>
-    </item>
-    
-    <item>
-      <title>Who am I</title>
-      <link>http://www.example.com/test/whoami/</link>
-      <pubDate>Thu, 30 Dec 2021 18:27:07 +0100</pubDate>
-      
-      <guid>http://www.example.com/test/whoami/</guid>
+      <guid>http://www.example.com/whoami/</guid>
       <description>my frist post</description>
     </item>
     
