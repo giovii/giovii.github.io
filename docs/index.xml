@@ -8,33 +8,21 @@
     <language>en</language>
     <lastBuildDate>Thu, 30 Dec 2021 18:27:07 +0100</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>this will be the place where I will write all the things I am learning about cyber security. So that I can have a reference for myself and to pass on my knowledge to others</description>
+    </item>
+    
+    <item>
       <title>Who am I</title>
       <link>http://www.example.com/whoami/</link>
       <pubDate>Thu, 30 Dec 2021 18:27:07 +0100</pubDate>
       
       <guid>http://www.example.com/whoami/</guid>
-      <description>my frist post</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.example.com/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.example.com/about.pt-br/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/about.pt-br/</guid>
-      <description>Escrito em Go, Hugo é um gerador de sites estáticos de código aberto disponível sobre a licença Apache Licence 2.0. O Hugo suporta TOML, YAML e JSON como arquivos de dados, Markdown e HTML como arquivos de conteúdo, e usa shortcodes para adicionar conteúdos ricos. Outras funcionalidades notaveis são taxonomias, modo multilingual, processamento de imagens, formatos de saída customizaveis, minificação de HTML/CSS/JS e suporte a fluxos SASS/SCSS.
-O Hugo faz o uso de vários projetos de código aberto incluíndo:</description>
+      <description></description>
     </item>
     
     <item>
@@ -47,30 +35,12 @@ O Hugo faz o uso de vários projetos de código aberto incluíndo:</description>
     </item>
     
     <item>
-      <title>Contato</title>
-      <link>http://www.example.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>http://www.example.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
-    </item>
-    
-    <item>
-      <title>Projetos</title>
-      <link>http://www.example.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/projects/</guid>
-      <description>Nada para ver aqui.. Circulando!</description>
     </item>
     
   </channel>
