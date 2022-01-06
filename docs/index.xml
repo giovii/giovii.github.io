@@ -26,21 +26,39 @@
     </item>
     
     <item>
+      <title>A golang trainer</title>
+      <link>http://www.example.com/projects/more-rich-content/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A golang trainer</title>
+      <link>http://www.example.com/projects/trainer/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/trainer/</guid>
+      <description>&lt;p&gt;A golang program that interact with Windows API to modify memory of another program&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>More Rich Content</title>
+      <link>http://www.example.com/posts/more-rich-content/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://www.example.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/contact/</guid>
       <description>Follow me, @johndoe.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://www.example.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
   </channel>

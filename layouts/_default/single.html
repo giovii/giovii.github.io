@@ -1,0 +1,10 @@
+{{ define "title" }}
+  {{ .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+    <aside>
+        {{ .TableOfContents }}
+    </aside>
+  {{ partial "page.html" . }}
+  {{ partial "posts/math.html" . }}
+{{ end }}

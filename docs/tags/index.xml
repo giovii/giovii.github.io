@@ -16,5 +16,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>golang</title>
+      <link>http://www.example.com/tags/golang/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>http://www.example.com/tags/shortcodes/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>http://www.example.com/tags/windows/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/windows/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
