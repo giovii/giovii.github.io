@@ -124,8 +124,15 @@
 
       <div class="content">
         
-    <aside>
-        <nav id="TableOfContents">
+<div class="toc" >
+<div style=" padding:10px;
+  margin: 0;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 20px;
+    height: 100vh;
+  background-color:hsla(100,10%,75%,0.1);"><h1 >Table of content</h1>
+<nav id="TableOfContents">
   <ul>
     <li><a href="#introduction">Introduction</a></li>
     <li><a href="#get-processes">Get processes</a></li>
@@ -146,19 +153,51 @@
     <li><a href="#step-9">step 9</a></li>
   </ul>
 </nav>
-    </aside>
-  <section class="container page">
-  <article>
-    <header>
-      <h1 class="title">
-        <a class="title-link" href="http://www.example.com/projects/trainer/">
-          A golang trainer
-        </a>
-      </h1>
-    </header>
+</div>
+</div>
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://www.example.com/projects/trainer/">
+              A golang trainer
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <time datetime='2019-03-09T00:00:00Z'>
+                March 9, 2019
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              4-minute read
+            </span>
+          </div>
+          
+          
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/golang/">golang</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/windows/">windows</a>
+    </span></div>
 
-    <p>A golang program that interact with Windows API to modify memory of another program</p>
+        </div>
+      </header>
+
+      <div>
+        
+        <p>A golang program that interact with Windows API to modify memory of another program</p>
 <hr>
+<!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
 <h2 id="introduction">
   Introduction
@@ -579,10 +618,21 @@
 </code></pre></td></tr></table>
 </div>
 </div>
-  </article>
-</section>
+      </div>
 
-  
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
 
       </div>
 

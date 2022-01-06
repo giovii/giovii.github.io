@@ -13,6 +13,9 @@ A golang program that interact with Windows API to modify memory of another prog
 <!--more-->
 ---
 <!-- Your front matter up here -->
+<div class="toc">
+  {{ .Page.TableOfContents }}
+</div>
 
 ## Introduction
 

@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>http://www.example.com/projects/more-rich-content/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.example.com/projects/trainer/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
@@ -63,6 +68,10 @@
   </url>
   
   <url>
+    <loc>http://www.example.com/posts/ad/</loc>
+  </url>
+  
+  <url>
     <loc>http://www.example.com/authors/</loc>
   </url>
   
@@ -72,6 +81,10 @@
   
   <url>
     <loc>http://www.example.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/posts/owasp10/</loc>
   </url>
   
   <url>

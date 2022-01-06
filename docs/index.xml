@@ -27,6 +27,15 @@
     
     <item>
       <title>A golang trainer</title>
+      <link>http://www.example.com/projects/more-rich-content/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A golang trainer</title>
       <link>http://www.example.com/projects/trainer/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -44,12 +53,30 @@
     </item>
     
     <item>
+      <title></title>
+      <link>http://www.example.com/posts/ad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://www.example.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/contact/</guid>
       <description>Follow me, @johndoe.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to OWASP</title>
+      <link>http://www.example.com/posts/owasp10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/owasp10/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
     </item>
     
   </channel>

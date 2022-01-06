@@ -9,6 +9,15 @@
     <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A golang trainer</title>
+      <link>http://www.example.com/projects/more-rich-content/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A golang trainer</title>
       <link>http://www.example.com/projects/trainer/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       

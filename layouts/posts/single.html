@@ -9,7 +9,7 @@
   position: sticky;
   top: 20px;
     height: 100vh;
-  background-color:hsla(100,10%,75%,0.1);"><h1 >Table of content</h1>
+  background-color:hsla(100,10%,75%,0.1);"><h1>Table of content</h1>
 {{ .Page.TableOfContents | replaceRE "<ul>[[:space:]]*<li>[[:space:]]*<ul>" "<ul>" | replaceRE "</ul>[[:space:]]*</li>[[:space:]]*</ul>" "</ul>" |  safeHTML }}
 </div>
 </div>
